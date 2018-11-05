@@ -2,7 +2,9 @@
 
 .heroimg {
     background-image: url('https://article.images.consumerreports.org/prod/content/dam/cro/magazine-articles/2016/August/CR-Magazine-Hero-Kitchen-Makeover-low-6-16');
+    @apply h-112;
 }
+
 
 .navbar {
     @apply font-semibold mr-2 pb-2 text-brown-brand;
