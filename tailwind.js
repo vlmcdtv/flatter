@@ -72,7 +72,7 @@ let colors = {
     'orange-lighter': '#fcd9b6',
     'orange-lightest': '#fff5eb',
 
-    'brown-brand': '#302A24',
+    'brown-brand': '#935421',
     'yellow-darkest': '#453411',
     'yellow-darker': '#684f1d',
     'yellow-dark': '#f2d024',
@@ -88,7 +88,7 @@ let colors = {
     'green-light': '#51d88a',
     'green-lighter': '#a2f5bf',
     'green-lightest': '#e3fcec',
-    'green-brand': '#8FB339',
+    'green-brand': '#A6B4A3',
 
     'teal-darkest': '#0d3331',
     'teal-darker': '#20504f',
@@ -210,6 +210,8 @@ module.exports = {
             'sans-serif',
         ],
         'serif': [
+            'Londrina Shadow',
+            'Seaweed Script',
             'Georgia',
             'Constantia',
             'Lucida Bright',
@@ -229,7 +231,7 @@ module.exports = {
             'Courier New',
             'monospace',
         ],
-    },
+},
 
 
     /*
