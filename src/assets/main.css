@@ -1,3 +1,25 @@
 @tailwind preflight;
+
+.heroimg {
+    background-image: url('https://article.images.consumerreports.org/prod/content/dam/cro/magazine-articles/2016/August/CR-Magazine-Hero-Kitchen-Makeover-low-6-16');
+}
+
+.navbar {
+    @apply font-semibold mr-2 pb-2 text-brown-brand;
+}
+
+.navbar:hover {
+    text-decoration: none;
+    @apply opacity-50;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
 @tailwind components;
 @tailwind utilities;
+
