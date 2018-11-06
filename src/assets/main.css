@@ -1,5 +1,14 @@
 @tailwind preflight;
 
+.herotext {
+    font-family: 'Londrina Shadow';
+    @apply  font-bold text-5xl text-brown-brand p-6;
+}
+
+.bodyheader {
+    font-family: 'Dancing Script';
+    @apply text-xl text-brown-brand;
+}
 
 .heroimg {
     background-image: url('https://article.images.consumerreports.org/prod/content/dam/cro/magazine-articles/2016/August/CR-Magazine-Hero-Kitchen-Makeover-low-6-16');
@@ -8,7 +17,7 @@
 
 
 .navbar {
-    @apply font-semibold mr-2 pb-2 text-brown-brand;
+    @apply font-semibold mr-2 text-brown-brand;
 }
 
 .navbar:hover {

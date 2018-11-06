@@ -196,6 +196,7 @@ module.exports = {
 
     fonts: {
         'sans': [
+            'Raleway',
             'Roboto',
             'system-ui',
             'BlinkMacSystemFont',
@@ -210,9 +211,10 @@ module.exports = {
             'sans-serif',
         ],
         'serif': [
-            'Londrina Shadow',
-            'Seaweed Script',
             'Georgia',
+            'Londrina Shadow',
+            'Pacifico',
+            'Seaweed Script',
             'Constantia',
             'Lucida Bright',
             'Lucidabright',
@@ -221,6 +223,7 @@ module.exports = {
             'DejaVu Serif',
             'Bitstream Vera Serif',
             'Liberation Serif',
+            'Dancing Script',
             'serif',
         ],
         'mono': [
