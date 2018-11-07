@@ -73,6 +73,7 @@ let colors = {
     'orange-lightest': '#fff5eb',
 
     'brown-brand': '#935421',
+    'browner-brand': '#413029',
     'yellow-darkest': '#453411',
     'yellow-darker': '#684f1d',
     'yellow-dark': '#f2d024',
@@ -88,7 +89,7 @@ let colors = {
     'green-light': '#51d88a',
     'green-lighter': '#a2f5bf',
     'green-lightest': '#e3fcec',
-    'green-brand': '#A6B4A3',
+    'green-brand': '#A1B3A5',
 
     'teal-darkest': '#0d3331',
     'teal-darker': '#20504f',
@@ -196,8 +197,8 @@ module.exports = {
 
     fonts: {
         'sans': [
-            'Raleway',
             'Roboto',
+            'Raleway',
             'system-ui',
             'BlinkMacSystemFont',
             '-apple-system',
